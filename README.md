@@ -11,6 +11,8 @@
   <br />
 </p>
 
+🌻 Hi! I am Shruti Sinha, a 3rd year BTech undergrad student from IGDTUW, Delhi.
+
 👋 I'm a Budding Developer based in India 🇮🇳
 
 🔥 My objective is to create tools that will help me automate my daily operations. I also want to see things flourish on the internet and for people to learn from my failures rather than their own.
