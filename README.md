@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/resume-banner-confetti.jpg" width="1280" title="Readme Banner">
+  <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="1280" title="Readme Banner">
 </p>
 
 #
