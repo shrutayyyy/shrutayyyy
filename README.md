@@ -65,8 +65,10 @@ You can also check my [LinkedIn profile](https://www.linkedin.com/in/shruti-sinh
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You can find me free styling on my guitar in my free time.
 
-<img align="centre" src="https://media.giphy.com/media/Rhf0uSWt1P2TFqVMZK/giphy.gif" height="300" title="Peace" />
+<br><br>
 
-<br/><br/><br/><br/>
+<img align="center" src="https://media.giphy.com/media/Rhf0uSWt1P2TFqVMZK/giphy.gif" height="300" title="Peace" />
+
+<br/><br/>
 **[Visit my website &rarr;](https://shrutayyyy.github.io/resume/)**
 
